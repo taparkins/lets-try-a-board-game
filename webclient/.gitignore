@@ -1,0 +1,9 @@
+# yarn
+node_modules
+
+# json-server -- db.json.example is a stable template. replace db.json with a copy of that file
+db.json
+
+# elm
+elm-stuff
+repl-temp-*
